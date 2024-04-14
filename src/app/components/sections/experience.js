@@ -93,7 +93,7 @@ const dicionary = {
 
 export const Experience = () => {
   return (
-    <section className="mt-16">
+    <section className="mt-10">
       <h2 className='text-2xl flex gap-2 items-center text-wrap text-gray-900 font-bold pb-4'>
         <Briefcase />Experience
         </h2>
@@ -102,19 +102,22 @@ export const Experience = () => {
         <TimeLine>
           {works.map((work,i) => (
             <React.Fragment key={`${work.company}-${i}`}>
-              <div className="relative pb-5 md:col-span-2">
+              <div className="relative pb-2 md:pb-4 md:col-span-2">
                 <div className="sticky top-0">
                   <span className="text-gray-900 -left-[42px] absolute rounded-full text-5xl">
                     •
                   </span>
+                  <div className='flex md:flex-col gap-2 md:gap-0'>
                   <h3 className="text-xl font-bold text-gary-600">
                     {work.position}
                   </h3>
+                  <p className="text-gray-600 md:hidden">|</p>
                   <h4 className="font-semibold text-xl text-gray-600 ">
                     {work.company}
                   </h4>
+                  </div>
                   <time className="text-sm text-gray-600 ">{work.startDate} - {work.endDate}</time>
-                  <ul className='flex gap-2 flex-wrap mt-5'>
+                  <ul className='flex gap-2 flex-wrap mt-2'>
                     {work.highlights.map((highlight,i) => (
                       <li key={`${highlight}-${i}`} className={`rounded-md justify-center items-center py-1 px-3 flex gap-2 text-xs ${dicionary[highlight].bg} ${dicionary[highlight].color}`}>{dicionary[highlight].svg} <span>{dicionary[highlight].name}</span></li>
                       

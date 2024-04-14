@@ -7,7 +7,7 @@ const educations = json.education;
 
 export const Education = () => {
   return (
-    <section className="mt-16">
+    <section className="mt-10">
       <h2 className="text-2xl flex gap-2 items-center text-wrap text-gray-900 font-bold pb-4">
         <School />
         Educación & Certificaciones

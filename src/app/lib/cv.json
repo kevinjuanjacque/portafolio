@@ -2,10 +2,10 @@
   "basics": {
     "presentation": "Kevin Juan Jacque Castillo",
     "name": "Kevin Jacque",
-    "label": "Ingeniero de Software con más de 5 años de experiencia en desarrollo backend, frontend y móvil.",
+    "label": "Ingeniero de Software",
     "email": "kjacquec@gmail.com",
     "phone": "+56952767383",
-    "summary": "Soy una persona con muchas ganas de aprender y una muy buena disposición para adquirir conocimientos relacionados con la programación. Esto me permite aprender con facilidad nuevas tecnologías. Soy un desarrollador Full Stack con conocimientos tanto en tecnologías frontend como en backend. También tengo experiencia en el desarrollo móvil y en la implementación de metodologías ágiles y sus herramientas.",
+    "summary": "Soy ingeniero de software con más de 5 años de experiencia. He trabajado en e-commerce, educación universitaria/bootcamp, banca, consultoría y entre otros, donde he realizado desarrollos tanto en el backend como en el frontend, además de aplicaciones móviles. Me considero una persona proactiva, con capacidad para trabajar en equipo y habilidades de comunicación.",
     "picture": "/images/perfil.jpeg",
     "location": {
       "address": "Los Andes, Valparaiso, Chile",
@@ -38,7 +38,7 @@
         "url": "https://company.com",
         "startDate": "2022",
         "endDate": "Actualmente",
-        "summary": "Desarrollo de servicios REST y GraphQL con tecnologías como Nest y Node.js en monorepos Nx. También colaboré en áreas como el desarrollo móvil con Kotlin.",
+        "summary": "Desarrollo para app/web de Banco Falabella, sobre login de la app, auto adhesion web, nuevo home app, entre otros, tambien responsable de migrar servicios en docker a kubernetes. ",
         "highlights": [
           "nestjs",
           "nx",
@@ -86,7 +86,7 @@
         "url": "https://company.com",
         "startDate": "2021",
         "endDate": "2022",
-        "summary": "Inicialmente trabajé en el desarrollo de la landing de ripleytech.io, dedicada a la captación de talento. Luego me uní al equipo de RCollect, donde mi función principal fue el desarrollo de aplicaciones móviles con Flutter y el desarrollo backend con Node.js para la comunicación con bases de datos y servicios REST. También adquirí experiencia en plataformas en la nube como AWS y GCP.",
+        "summary": "Inicialmente trabajé en el desarrollo de la landing de ripleytech.io, dedicada a la captación de talento. Luego me incorporé al equipo de RCollect, donde mi función principal fue el desarrollo de aplicaciones mobiles y servicios, dedicados a el personal de ripley, para la busqueda de productos en tienda, de compras realizadas por ripley.com",
         "highlights": [
           "node",
           "flutter",
@@ -97,10 +97,10 @@
         ]
       },
       {
-        "company": "Observatorio de RRSS - Universidad Central",
+        "company": "Observatorio - U. Central",
         "position": "Desarrollador",
         "url": "https://company.com",
-        "startDate": "2020",
+        "startDate": "2019",
         "endDate": "2021",
         "summary": "Responsable de los servidores dedicados a la extracción de datos de las redes sociales, así como desarrollo tanto en el frontend como en el backend para la revisión del estado de las descargas en los servidores.",
         "highlights": [
