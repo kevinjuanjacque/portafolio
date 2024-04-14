@@ -38,13 +38,14 @@
         "url": "https://company.com",
         "startDate": "2022",
         "endDate": "Actualmente",
-        "summary": "Desarrollo para app/web de Banco Falabella, sobre login de la app, auto adhesion web, nuevo home app, entre otros, tambien responsable de migrar servicios en docker a kubernetes. ",
+        "summary": "Desarrollo para app/web de Banco Falabella, sobre login de la app, auto adhesion web, nuevo home app, entre otros, integraciones con servicios soap, ademas de responsable de migrar servicios en docker a kubernetes.",
         "highlights": [
           "nestjs",
           "nx",
           "kotlin",
           "node",
-          "gitlab"
+          "gitlab",
+          "java"
         ]
       },
       {

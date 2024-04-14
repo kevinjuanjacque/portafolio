@@ -14,6 +14,7 @@ import AmazonWebServices from '../icons/Amazon';
 import Google from '../icons/GCP';
 import ReactJs from '../icons/ReactJs';
 import MongoDB from '../icons/MongoDb';
+import Java from '../icons/Java';
 
 const works = json.work;
 
@@ -86,6 +87,13 @@ const dicionary = {
     mongodb:{
         svg: <MongoDB width="15" />,
         name: 'MongoDB',
+        bg: 'border border-[#111]',
+        color: 'text-gray-900'
+    },
+    
+    java:{
+        svg: <Java width="15" />,
+        name: 'Java',
         bg: 'border border-[#111]',
         color: 'text-gray-900'
     }
