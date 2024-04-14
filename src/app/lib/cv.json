@@ -1,0 +1,167 @@
+{
+  "basics": {
+    "presentation": "Kevin Juan Jacque Castillo",
+    "name": "Kevin Jacque",
+    "label": "Ingeniero de Software con más de 5 años de experiencia en desarrollo backend, frontend y móvil.",
+    "email": "kjacquec@gmail.com",
+    "phone": "+56952767383",
+    "summary": "Soy una persona con muchas ganas de aprender y una muy buena disposición para adquirir conocimientos relacionados con la programación. Esto me permite aprender con facilidad nuevas tecnologías. Soy un desarrollador Full Stack con conocimientos tanto en tecnologías frontend como en backend. También tengo experiencia en el desarrollo móvil y en la implementación de metodologías ágiles y sus herramientas.",
+    "picture": "/images/perfil.jpeg",
+    "location": {
+      "address": "Los Andes, Valparaiso, Chile",
+      "city": "Los Andes",
+      "country": "Chile",
+      "region": "Valparaiso"
+    },
+    "social": {
+      "twitter": {
+        "network": "Twitter",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      },
+      "linkedin": {
+        "network": "LinkedIn",
+        "username": "Kevin Juan Jacque Castillo",
+        "url": "https://www.linkedin.com/in/kevin-jacque-castillo-a9911a1b1"
+      },
+      "github": {
+        "network": "GitHub",
+        "username": "Kevin Juan Jacque Castillo",
+        "url": "https://github.com/KevinJacqueCastillo"
+      }
+    }
+  },
+    "work": [
+      {
+        "company": "Banco Falabella",
+        "position": "Desarrollador Backend SSR",
+        "url": "https://company.com",
+        "startDate": "2022",
+        "endDate": "Actualmente",
+        "summary": "Desarrollo de servicios REST y GraphQL con tecnologías como Nest y Node.js en monorepos Nx. También colaboré en áreas como el desarrollo móvil con Kotlin.",
+        "highlights": [
+          "nestjs",
+          "nx",
+          "kotlin",
+          "node",
+          "gitlab"
+        ]
+      },
+      {
+        "company": "Coder House",
+        "position": "Profesor de Desarrollo Backend",
+        "url": "https://company.com",
+        "startDate": "2023",
+        "endDate": "2024",
+        "summary": "En tiempo parcial, impartí clases en el bootcamp de Coder House, enseñando desarrollo backend con Node.js y frontend con React.js, así como metodologías ágiles.",
+        "highlights": [
+          "nestjs",
+          "react",
+          "node"
+        ]
+      },
+      {
+        "company": "Universidad Central",
+        "position": "Profesor",
+        "url": "https://company.com",
+        "startDate": "2022",
+        "endDate": "2022",
+        "summary": "En tiempo parcial, impartí clases en la universidad sobre programación básica.",
+        "highlights": []
+      },
+      {
+        "company": "TacTech - Falabella",
+        "position": "Desarrollador Fullstack",
+        "url": "https://company.com",
+        "startDate": "2022",
+        "endDate": "2022",
+        "summary": "Durante mi tiempo en TacTech, participé en varios desarrollos, incluido el cierre semanal de las facturas a los vendedores. Desarrollé un script que realizaba la suma de las facturas para realizar el pago de los vendedores según sus ventas en falabella.com.",
+        "highlights": [
+          "node"
+        ]
+      },
+      {
+        "company": "Ripley Tech",
+        "position": "Ingeniero de Software",
+        "url": "https://company.com",
+        "startDate": "2021",
+        "endDate": "2022",
+        "summary": "Inicialmente trabajé en el desarrollo de la landing de ripleytech.io, dedicada a la captación de talento. Luego me uní al equipo de RCollect, donde mi función principal fue el desarrollo de aplicaciones móviles con Flutter y el desarrollo backend con Node.js para la comunicación con bases de datos y servicios REST. También adquirí experiencia en plataformas en la nube como AWS y GCP.",
+        "highlights": [
+          "node",
+          "flutter",
+          "aws",
+          "gcp",
+          "react",
+          "mongodb"
+        ]
+      },
+      {
+        "company": "Observatorio de RRSS - Universidad Central",
+        "position": "Desarrollador",
+        "url": "https://company.com",
+        "startDate": "2020",
+        "endDate": "2021",
+        "summary": "Responsable de los servidores dedicados a la extracción de datos de las redes sociales, así como desarrollo tanto en el frontend como en el backend para la revisión del estado de las descargas en los servidores.",
+        "highlights": [
+          "node",
+          "react"
+        ]
+      }
+    ],
+    
+    "education": [
+      {
+        "institution": "Amazon Web Services",
+        "area": "Aws Certified Solutions Architect",
+        "startDate": "2021",
+        "endDate": "2021"
+      },{
+        "institution": "CertiProf",
+        "area": "Scrum foundation professional certificate",
+        "startDate": "2020",
+        "endDate": "2020"
+      },{
+      "institution": "Universidad Central",
+      "area": "Ingeniero Civil en Computacion e Informatica",
+      "startDate": "2016",
+      "endDate": "2022"
+    },{
+      "institution": "Universidad Central",
+      "area": "Licenciado en Ciencias de la Ingenieria",
+      "startDate": "2016",
+      "endDate": "2021"
+    }],
+    
+    "skills":[
+      { "name": "React Js" },
+      { "name": "Node Js" },
+      { "name": "Nest Js" },
+      { "name": "Mongodb" },
+      { "name": "Docker" },
+      { "name": "GCP" },
+      { "name": "AWS" },
+      { "name": "Kotlin" },
+      { "name": "Flutter" },
+      { "name": "Nx" },
+      { "name": "Next Js" },
+      { "name": "Git" },
+      { "name": "Pipeline" },
+      { "name": "Java" },
+      { "name": "Trabajo en equipo" },
+      { "name": "Comunicacion" },
+      { "name": "Metodologias Agiles" }
+    ],
+    
+    "projects": [
+      {
+        "name": "I Love JS",
+        "description": "Proyecto personal creado para participar en un concurso de programación donde obtuve el tercer lugar. Consiste en una consola web para facilitar el debugging de JavaScript vanilla y la creación de un lenguaje de programación en español para nuevos programadores.",
+        "highlights": [
+          "Tercer Lugar Hackathon",
+          "JavaScript"
+        ],
+        "url": "https://i-love-js.vercel.app/"
+      }
+    ]
+  }
