@@ -4,8 +4,8 @@
     "name": "Kevin Jacque",
     "label": "Ingeniero de Software",
     "email": "kjacquec@gmail.com",
-    "phone": "+56952767383",
-    "summary": "Soy ingeniero de software con más de 5 años de experiencia. He trabajado en e-commerce, educación universitaria/bootcamp, banca, consultoría y entre otros, donde he realizado desarrollos tanto en el backend como en el frontend, además de aplicaciones móviles. Me considero una persona proactiva, con capacidad para trabajar en equipo y habilidades de comunicación.",
+    "phone": "+56923855240",
+    "summary": "Ingeniero de software con más de 9 años de experiencia. He trabajado en e-commerce, educación universitaria/bootcamp, banca, consultoría y entre otros, donde he realizado desarrollos tanto en el backend como en el frontend, además de aplicaciones móviles. Me considero una persona proactiva, con capacidad para trabajar en equipo y habilidades de comunicación.",
     "picture": "/images/perfil.jpeg",
     "location": {
       "address": "Los Andes, Valparaiso, Chile",
@@ -14,11 +14,6 @@
       "region": "Valparaiso"
     },
     "social": {
-      "twitter": {
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      },
       "linkedin": {
         "network": "LinkedIn",
         "username": "Kevin Juan Jacque Castillo",
@@ -31,138 +26,134 @@
       }
     }
   },
-    "work": [
-      {
-        "company": "Banco Falabella",
-        "position": "Desarrollador Backend SSR",
-        "url": "https://company.com",
-        "startDate": "2022",
-        "endDate": "Actualmente",
-        "summary": "Desarrollo para app/web de Banco Falabella, sobre login de la app, auto adhesion web, nuevo home app, entre otros, integraciones con servicios soap, ademas de responsable de migrar servicios en docker a kubernetes.",
-        "highlights": [
-          "nestjs",
-          "nx",
-          "kotlin",
-          "node",
-          "gitlab",
-          "java"
-        ]
-      },
-      {
-        "company": "Coder House",
-        "position": "Profesor de Desarrollo Backend",
-        "url": "https://company.com",
-        "startDate": "2023",
-        "endDate": "2024",
-        "summary": "En tiempo parcial, impartí clases en el bootcamp de Coder House, enseñando desarrollo backend con Node.js y frontend con React.js, así como metodologías ágiles.",
-        "highlights": [
-          "nestjs",
-          "react",
-          "node"
-        ]
-      },
-      {
-        "company": "Universidad Central",
-        "position": "Profesor",
-        "url": "https://company.com",
-        "startDate": "2022",
-        "endDate": "2022",
-        "summary": "En tiempo parcial, impartí clases en la universidad sobre programación básica.",
-        "highlights": []
-      },
-      {
-        "company": "TacTech - Falabella",
-        "position": "Desarrollador Fullstack",
-        "url": "https://company.com",
-        "startDate": "2022",
-        "endDate": "2022",
-        "summary": "Durante mi tiempo en TacTech, participé en varios desarrollos, incluido el cierre semanal de las facturas a los vendedores. Desarrollé un script que realizaba la suma de las facturas para realizar el pago de los vendedores según sus ventas en falabella.com.",
-        "highlights": [
-          "node"
-        ]
-      },
-      {
-        "company": "Ripley Tech",
-        "position": "Ingeniero de Software",
-        "url": "https://company.com",
-        "startDate": "2021",
-        "endDate": "2022",
-        "summary": "Inicialmente trabajé en el desarrollo de la landing de ripleytech.io, dedicada a la captación de talento. Luego me incorporé al equipo de RCollect, donde mi función principal fue el desarrollo de aplicaciones mobiles y servicios, dedicados a el personal de ripley, para la busqueda de productos en tienda, de compras realizadas por ripley.com",
-        "highlights": [
-          "node",
-          "flutter",
-          "aws",
-          "gcp",
-          "react",
-          "mongodb"
-        ]
-      },
-      {
-        "company": "Observatorio - U. Central",
-        "position": "Desarrollador",
-        "url": "https://company.com",
-        "startDate": "2019",
-        "endDate": "2021",
-        "summary": "Responsable de los servidores dedicados a la extracción de datos de las redes sociales, así como desarrollo tanto en el frontend como en el backend para la revisión del estado de las descargas en los servidores.",
-        "highlights": [
-          "node",
-          "react"
-        ]
-      }
-    ],
-    
-    "education": [
-      {
-        "institution": "Amazon Web Services",
-        "area": "Aws Certified Solutions Architect",
-        "startDate": "2021",
-        "endDate": "2021"
-      },{
-        "institution": "CertiProf",
-        "area": "Scrum foundation professional certificate",
-        "startDate": "2020",
-        "endDate": "2020"
-      },{
+  "work": [
+    {
+      "company": "Beige Innovation",
+      "position": "Founder & Software Engineer",
+      "url": "https://company.com",
+      "startDate": "2024",
+      "endDate": "Actualmente",
+      "summary": "Como fundador y ingeniero de software en Beige Innovation, estoy a cargo de liderar el desarrollo de soluciones innovadoras y de alta calidad. Mi enfoque está en la creación de aplicaciones escalables y eficientes utilizando tecnologías modernas, garantizando soluciones con enfoque a la experiencia del usuario y rendimiento",
+      "highlights": ["nestjs", "node", "react", "flutter", "aws"]
+    },
+    {
+      "company": "Banco Falabella",
+      "position": "Tech Lead",
+      "url": "https://company.com",
+      "startDate": "2024",
+      "endDate": "Actualmente",
+      "summary": "Lider de equipo tecnico del area de desarrollo, encargdo de coordinar conversaciones con proveedores y con el equipo de diseño, obtener definiciones tecnicas y de arquitectura, ademas de guiar al equipo en las mejores practicas de desarrollo y metodologias agiles, para un desarrollo eficiente y de calidad.",
+      "highlights": ["nestjs", "nx", "kotlin", "node", "gitlab", "java"]
+    },
+    {
+      "company": "Banco Falabella",
+      "position": "Desarrollador Backend SSR",
+      "url": "https://company.com",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "Desarrollo para app/web de Banco Falabella, sobre login de la app, auto adhesion web, nuevo home app, entre otros, integraciones con servicios soap, ademas de responsable de migrar servicios en docker a kubernetes.",
+      "highlights": ["nestjs", "nx", "kotlin", "node", "gitlab", "java"]
+    },
+    {
+      "company": "Coder House",
+      "position": "Profesor de Desarrollo Backend",
+      "url": "https://company.com",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "En tiempo parcial, impartí clases en el bootcamp de Coder House, enseñando desarrollo backend con Node.js y frontend con React.js, así como metodologías ágiles.",
+      "highlights": ["nestjs", "react", "node"]
+    },
+    {
+      "company": "Universidad Central",
+      "position": "Profesor",
+      "url": "https://company.com",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "En tiempo parcial, impartí clases en la universidad sobre programación básica.",
+      "highlights": []
+    },
+    {
+      "company": "TacTech - Falabella",
+      "position": "Desarrollador Fullstack",
+      "url": "https://company.com",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Durante mi tiempo en TacTech, participé en varios desarrollos, incluido el cierre semanal de las facturas a los vendedores. Desarrollé un script que realizaba la suma de las facturas para realizar el pago de los vendedores según sus ventas en falabella.com.",
+      "highlights": ["node"]
+    },
+    {
+      "company": "Ripley Tech",
+      "position": "Ingeniero de Software",
+      "url": "https://company.com",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Inicialmente trabajé en el desarrollo de la landing de ripleytech.io, dedicada a la captación de talento. Luego me incorporé al equipo de RCollect, donde mi función principal fue el desarrollo de aplicaciones mobiles y servicios, dedicados a el personal de ripley, para la busqueda de productos en tienda, de compras realizadas por ripley.com",
+      "highlights": ["node", "flutter", "aws", "gcp", "react", "mongodb"]
+    },
+    {
+      "company": "Observatorio - U. Central",
+      "position": "Desarrollador",
+      "url": "https://company.com",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "Responsable de los servidores dedicados a la extracción de datos de las redes sociales, así como desarrollo tanto en el frontend como en el backend para la revisión del estado de las descargas en los servidores.",
+      "highlights": ["node", "react"]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Amazon Web Services",
+      "area": "Aws Certified Solutions Architect",
+      "startDate": "2021",
+      "endDate": "2021"
+    },
+    {
+      "institution": "CertiProf",
+      "area": "Scrum foundation professional certificate",
+      "startDate": "2020",
+      "endDate": "2020"
+    },
+    {
       "institution": "Universidad Central",
       "area": "Ingeniero Civil en Computacion e Informatica",
       "startDate": "2016",
       "endDate": "2022"
-    },{
+    },
+    {
       "institution": "Universidad Central",
       "area": "Licenciado en Ciencias de la Ingenieria",
       "startDate": "2016",
       "endDate": "2021"
-    }],
-    
-    "skills":[
-      { "name": "React Js" },
-      { "name": "Node Js" },
-      { "name": "Nest Js" },
-      { "name": "Mongodb" },
-      { "name": "Docker" },
-      { "name": "GCP" },
-      { "name": "AWS" },
-      { "name": "Kotlin" },
-      { "name": "Flutter" },
-      { "name": "Nx" },
-      { "name": "Next Js" },
-      { "name": "Git" },
-      { "name": "Pipeline" },
-      { "name": "Java" },
-      { "name": "Trabajo en equipo" },
-      { "name": "Comunicacion" },
-      { "name": "Metodologias Agiles" }
-    ],
-    
-    "projects": [
-      {
-        "name": "I Love JS",
-        "description": "Proyecto personal creado para participar en un concurso de programación donde obtuve el tercer lugar. Consiste en una consola web para facilitar el debugging de JavaScript vanilla y la creación de un lenguaje de programación en español para nuevos programadores.",
-        "highlights": [
-          "Tercer Lugar Hackathon",
-          "JavaScript"
-        ],
-        "url": "https://i-love-js.vercel.app/"
-      }
-    ]
-  }
+    }
+  ],
+
+  "skills": [
+    { "name": "React Js" },
+    { "name": "Node Js" },
+    { "name": "Nest Js" },
+    { "name": "Mongodb" },
+    { "name": "Docker" },
+    { "name": "GCP" },
+    { "name": "AWS" },
+    { "name": "Kotlin" },
+    { "name": "Flutter" },
+    { "name": "Nx" },
+    { "name": "Next Js" },
+    { "name": "Git" },
+    { "name": "Pipeline" },
+    { "name": "Java" },
+    { "name": "Trabajo en equipo" },
+    { "name": "Comunicacion" },
+    { "name": "Metodologias Agiles" }
+  ],
+
+  "projects": [
+    {
+      "name": "I Love JS",
+      "description": "Proyecto personal creado para participar en un concurso de programación donde obtuve el tercer lugar. Consiste en una consola web para facilitar el debugging de JavaScript vanilla y la creación de un lenguaje de programación en español para nuevos programadores.",
+      "highlights": ["Tercer Lugar Hackathon", "JavaScript"],
+      "url": "https://i-love-js.vercel.app/"
+    }
+  ]
+}
